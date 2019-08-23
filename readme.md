@@ -3,4 +3,4 @@
 8083 	RST服务系统
 8084	Search服务
 8085	SSO单点登录
-http://localhost:8983/solr/
+localhost:8983/solr/
